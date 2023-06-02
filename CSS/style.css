@@ -1,4 +1,22 @@
+@font-face{
+    font-family: garam;
+    src: url(../fonts/CormorantGaramond-SemiBold.ttf);
+}
+@font-face{
+    font-family: garam_b;
+    src: url(../fonts/CormorantGaramond-Bold.ttf);
+}
+body{
+    font-family: garam;
+}
+.garam_b{
+    font-family: garam_b;
+}
+
 .iconav{
     width: 20px;
     height: 20px;
+}
+.justify{
+    text-align: justify;
 }
