@@ -20,3 +20,30 @@ body{
 .justify{
     text-align: justify;
 }
+.bg-emelli{
+    background-image: url(../images/emelli.jpg);
+    background-size: cover;    
+}
+.bg-lafaet{
+    background-image: url(../images/lafaet.jpg);
+    background-size: cover;    
+}
+.bg-shamp{
+    background-image: url(../images/shamp.jpg);
+    background-size: cover;    
+}
+.bg-lobster{
+    background-image: url(../images/lobster.jpg);
+    background-size: cover;      
+}
+.hover22{
+    opacity: 0%;
+    background-color: rgba(37, 35, 35, 0.5);
+}
+.hover22:hover{
+    opacity: 100%;
+
+}
+
+
+
