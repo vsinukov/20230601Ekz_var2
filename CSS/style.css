@@ -44,6 +44,19 @@ body{
     opacity: 100%;
 
 }
+.hover23{
+    opacity: 50%;
+
+}
+.hover23:hover{
+    opacity: 100%;
+
+}
+.font_foot{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: gray;
+}
 
 
 
